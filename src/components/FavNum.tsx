@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import { Box, Text } from "@chakra-ui/react";
 import { AiOutlineHeart } from "react-icons/ai";
 
